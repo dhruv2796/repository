@@ -1,1 +1,3 @@
 My first text git
+second commit
+addded one line change fo new_feature
